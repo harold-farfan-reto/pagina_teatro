@@ -4,7 +4,7 @@ title: "FAE Lima 2022: Mujer Serpiente de Lita Baluarte"
 author: "Harold Farfán Reto"
 categories: journal
 tags: [documentation,sample]
-image: mujerserpiente.webp
+image: mujerserpiente.png
 ---
 
 Este año, el [Festival de Artes Escénicas de Lima][fae] ha retornado a la presencialidad después de dos años. La pandemia, si bien cerró las puertas de muchas producciones durante este tiempo, también dio origen a diversas propuestas que, desde visiones muy personales, trataron de retratar o reflexionar en torno a lo que significó este evento para cada uno de nosotros.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FAE Lima 2022: "Mujer serpiente" de Lita Baluarte"
+title: FAE Lima 2022: "Mujer serpiente" de Lita Baluarte
 author: "Harold Farfán Reto"
 categories: journal
 tags: [documentation,sample]

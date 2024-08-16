@@ -14,7 +14,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'envelope',   link: 'mailto:hfarfanreto@pm.me'}
-- {icon: 'twitter',    link: 'https://twitter.com/paululele'}
+- {icon: 'twitter',    link: 'https://twitter.com/'}
 - {icon: 'linkedin',   link: 'https://www.linkedin.com/in/haroldfarfanreto/'}
 - {icon: 'github',     link: 'https://www.github.com/harold-farfan-reto'}
 - {icon: 'rss-square', link: '/feed.xml'}

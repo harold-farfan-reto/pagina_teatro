@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Posts', url: 'posts.html'}
-- {name: 'Este blog',   url: 'about.html'}
+- {name: 'Este blog', url: 'about.html'}
 - {name: 'Contacto', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

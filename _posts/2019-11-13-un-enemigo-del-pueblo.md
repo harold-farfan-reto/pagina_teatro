@@ -26,9 +26,9 @@ Sin embargo, Gaitán decidió problematizar la actitud con que la verdad se apar
 
 El segundo cambio de Gaitán aborda precisamente esta reflexión. Antes de iniciar la función, se les comunicó a los espectadores que, delante de cada butaca, había una pistola de burbujas, la cual podían disparar al aire cada vez que consideraban que el Dr. Stockman se comportaba de forma inapropiada. De más está decir que las burbujas aparecieron en el aire apenas empezó la función. 
 
-![alt text](<https://f.rpp-noticias.io/2019/11/07/861620enemigo-del-pueblo2jpg.jpg> "Fuente: RPP")
-
 Quiero destacar un fenómeno interesante: apenas empezó la función, unas pistolas tímidas fueron las primeras en denunciar a misoginia del Dr. Stockman, juzgando lo que parecían ser momentos puntuales en la vida de este hombre. Sin embargo, mientras fue avanzando la obra, la tolerancia fue disminuyendo, hasta que, a la mitad de la función, casi cada frase del protagonista era acompañada de una cortina de burbujas que llenaba el teatro, lo cual es sintomático de nuestra sociedad. Apenas conocemos al personaje, analizamos sus gestos y palabras y les damos valor individual a cada uno. Así, puede haber palabras sensatas e insensatas en un mismo diálogo. Sin embargo, cuando pasa el tiempo y asumimos que ya conocemos *cómo es el personaje*, ya no escuchamos realmente, sino que damos el mismo valor a todo lo que sale de la boca de esta persona. 
+
+![alt text](<https://f.rpp-noticias.io/2019/11/07/861620enemigo-del-pueblo2jpg.jpg> "Fuente: RPP")
 
 Creo que lo mismo podemos ver en nuestra vida diaria a observar a personajes púbicos, especialmente políticos: ya no escuchamos, sino que todo tiene valor o no según quién lo diga. En el caso peruano, esto lo observamos en cualquier red social: las palabras no tienen valor por sí mismas, sino según si el emisor es de derecha o izquierda, es hombre o mujer, es empleado o empresario. Aplaudimos o sentenciamos solo por quién es la persona, sin que nos importe conocer la verdad. 
 
@@ -36,7 +36,7 @@ Respecto del último cambio de la puesta en escena, este se relaciona con la est
 
 En resumen, esta versión de *Un enemigo del pueblo* ha tenido varios cambios. Quizá estos no han sido del agrado de todos, pero creo que es una manera interesante de actualizar un texto que ya es atemporal por sí mismo. Con excepción de eliminar el final original, considero que estos cambios son valiosos y reafirman el mensaje general de la obra.
  
-Finalmente, tengo que resaltar también el trabajo del elenco de la Compañía Nacional de Teatro de México, que incluye al director David Gaitán, así como al director artístico Enrique Singer, la dirección de luces y escenografía (Alejandro Luna), así como el vestuario y todo el elenco de actores, que nos brindaron una ejecución impecable de un texto clásico de Ibsen. Como lingüista que soy, me resulta adicionalmente interesante presenciar teatro en otros dialectos del castellano, como el mexicano, que nos brinda otros matices a través de entonaciones y gestos distintos, y nos hace apreciar la obra de forma distinta. 
+Finalmente, tengo que resaltar también el trabajo del elenco de la Compañía Nacional de Teatro de México, que incluye al director David Gaitán, así como al director artístico Enrique Singer, la dirección de luces y escenografía de Alejandro Luna, así como el vestuario y todo el elenco de actores, que nos brindaron una ejecución impecable de un texto clásico de Ibsen. Como lingüista que soy, me resulta adicionalmente interesante presenciar teatro en otros dialectos del castellano, como el mexicano, que nos brinda otros matices a través de entonaciones y gestos distintos, y nos hace apreciar la obra de forma distinta. 
 
 *La foto inicial de la entrada corresponde a [Sergio Carreón Ireta / CNT][SCI]*
 

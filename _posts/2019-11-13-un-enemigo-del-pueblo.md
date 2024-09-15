@@ -35,7 +35,7 @@ Respecto del último cambio de la puesta en escena, este se relaciona con la est
 
 En resumen, esta versión de *Un enemigo del pueblo* ha tenido varios cambios. Quizá estos no han sido del agrado de todos, pero creo que es una manera interesante de actualizar un texto que ya es atemporal por sí mismo. Con excepción de eliminar el final original, considero que estos cambios son valiosos y reafirman el mensaje general de la obra.
  
-Finalmente, tengo que resaltar también el trabajo del elenco de la Compañía Nacional de Teatro de México, que incluye al director, los actores, técnicos de luces, escenografía y vestuario, que nos brindó una ejecución impecable de un texto clásico de Ibsen. Como lingüista que soy, me resulta adicionalmente interesante presenciar teatro en otros dialectos del castellano, como el mexicano, que nos brinda otros matices a través de entonaciones y gestos distintos, y nos hace apreciar la obra de forma distinta. 
+Finalmente, tengo que resaltar también el trabajo del elenco de la Compañía Nacional de Teatro de México, que incluye al director David Gaitán, así como al director artístico Enrique Singer, la dirección de luces y escenografía (Alejandro Luna), así como el vestuario y todo el elenco de actores, que nos brindaron una ejecución impecable de un texto clásico de Ibsen. Como lingüista que soy, me resulta adicionalmente interesante presenciar teatro en otros dialectos del castellano, como el mexicano, que nos brinda otros matices a través de entonaciones y gestos distintos, y nos hace apreciar la obra de forma distinta. 
 
 
 

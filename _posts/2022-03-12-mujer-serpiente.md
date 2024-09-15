@@ -3,7 +3,7 @@ layout: post
 title: "FAE Lima 2022: Mujer Serpiente de Lita Baluarte"
 author: "Harold Farfán Reto"
 categories: journal
-tags: [lita,boluarte, mujer, serpiente, fae]
+tags: [lita,baluarte, mujer, serpiente, fae]
 image: mujerserpiente.png
 ---
 
@@ -15,7 +15,7 @@ Entre todas estas obras, tuve la oportunidad de ver *Mujer serpiente*, creación
 
 Si bien reconozco que los unipersonales y monólogos son mis géneros menos preferidos en teatro, este me llamó la atención de una manera particular. Gran parte de ello se debe a la acertada y muy llamativa mezcla de narración, actuación, danza y efectos visuales. Todo ello no solo estaba presente para evitar que hasta el más lejano al género se mantuviera en vilo, sino que era también una herramienta para potenciar los mensajes de la obra.  Se evidencia claramente el delicado trabajo de unir todos los elementos auditivos, visuales y narrativos, buscando siempre que cada uno de ellos le sirva al otro. Además, no se ha recurrido a proyecciones, lo cual, personalmente, me parece acertado para salir del molde común de unipersonales.
 
-![alt text](https://larepublica.pe/resizer/SXpetPTo-2QV8Nn_nwVlsuZAYvM=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/ZE32U55XHRAELA6Z6RNENQVZE4.jpg "La República")
+![alt text](<https://comunidaria.com/wp-content/uploads/2023/06/obra-de-teatro-mujer-serpiente-creacion-direccion-e-interpretacion-de-lita-baluarte.jpg> "Fuente: Comunidaria")
 
 Mención aparte merece el trabajo de teatro físico y danza realizado por Lita Baluarte, cuya coreografía no solo resulta impecable a los ojos del público (la persona que me acompañó a ver la obra no dejaba de mencionarlo), sino que también es una muestra de la intensa preparación que requiere la ejecución de esta obra y la compenetración que se ha logrado entre el elemento corporal y la narración de la historia.
 

@@ -38,11 +38,12 @@ En resumen, esta versión de *Un enemigo del pueblo* ha tenido varios cambios. Q
  
 Finalmente, tengo que resaltar también el trabajo del elenco de la Compañía Nacional de Teatro de México, que incluye al director David Gaitán, así como al director artístico Enrique Singer, la dirección de luces y escenografía (Alejandro Luna), así como el vestuario y todo el elenco de actores, que nos brindaron una ejecución impecable de un texto clásico de Ibsen. Como lingüista que soy, me resulta adicionalmente interesante presenciar teatro en otros dialectos del castellano, como el mexicano, que nos brinda otros matices a través de entonaciones y gestos distintos, y nos hace apreciar la obra de forma distinta. 
 
-
+*La foto inicial de la entrada corresponde a [Sergio Carreón Ireta / CNT][SCI]*
 
 
 [GTN]:		https://granteatronacional.pe/
 [David-Gaitán]:	http://www.elem.mx/autor/datos/15198
 [Luis-Rabago]: https://es.wikipedia.org/wiki/Luis_Rábago
 [CNTM]:		https://inba.gob.mx/grupos/item/id/3
+[SCI]: https://rpp.pe/cultura/teatro/enemigo-del-pueblo-pueblo-chico-corrupcion-mayor-noticia-1228754?ref=rpp
 

@@ -24,8 +24,7 @@ Sin embargo, Gaitán decidió problematizar la actitud con que la verdad se apar
 
 El segundo cambio de Gaitán aborda precisamente esta reflexión. Antes de iniciar la función, se les comunicó a los espectadores que, delante de cada butaca, había una pistola de burbujas, la cual podían disparar al aire cada vez que consideraban que el Dr. Stockman se comportaba de forma inapropiada. De más está decir que las burbujas aparecieron en el aire apenas empezó la función. 
 
-![alt text](https://larepublica.pe/resizer/SXpetPTo-2QV8Nn_nwVlsuZAYvM=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/ZE32U55XHRAELA6Z6RNENQVZE4.jpg "La República")
-
+![alt text]([https://f.rpp-noticias.io/2019/11/07/861620enemigo-del-pueblo2jpg.jpg "Fuente: RPP")
 
 Quiero destacar un fenómeno interesante: apenas empezó la función, unas pistolas tímidas fueron las primeras en denunciar a misoginia del Dr. Stockman, juzgando lo que parecían ser momentos puntuales en la vida de este hombre. Sin embargo, mientras fue avanzando la obra, la tolerancia fue disminuyendo, hasta que, a la mitad de la función, casi cada frase del protagonista era acompañada de una cortina de burbujas que llenaba el teatro, lo cual es sintomático de nuestra sociedad. Apenas conocemos al personaje, analizamos sus gestos y palabras y les damos valor individual a cada uno. Así, puede haber palabras sensatas e insensatas en un mismo diálogo. Sin embargo, cuando pasa el tiempo y asumimos que ya conocemos *cómo es el personaje*, ya no escuchamos realmente, sino que damos el mismo valor a todo lo que sale de la boca de esta persona. 
 

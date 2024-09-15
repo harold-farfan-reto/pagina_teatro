@@ -3,7 +3,7 @@ layout: post
 title: "FAE Lima 2022: Mujer Serpiente de Lita Baluarte"
 author: "Harold Farfán Reto"
 categories: journal
-tags: [documentation,sample]
+tags: [lita,boluarte, mujer, serpiente, fae]
 image: mujerserpiente.png
 ---
 

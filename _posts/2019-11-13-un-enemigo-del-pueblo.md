@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ibsen en tiempos de la cultura de la cancelación: *Un enemigo del pueblo* en el Gran Teatro Nacional"
+title: "Ibsen en la cultura de la cancelación: Un enemigo del pueblo en el Gran Teatro Nacional"
 author: "Harold Farfán Reto"
 categories: journal
 tags: [documentation,sample]

@@ -18,7 +18,7 @@ En realidad, es exagerado decir que la ciudad se encuentra dividida: el Dr. Stoc
 
 De más está decir que esta es mi obra favorita de Ibsen –por ello le da título a este blog– y me satisfizo la noticia de que sería presentada en el [Gran Teatro Nacional de Perú][GTN] por la [Compañía Nacional de Teatro de México][CNTM]. Y aún más novedoso fue ver los cambios que tenía preparado [David Gaitán][David-Gaitán], el director de este montaje.
 
-![alt text](<https://raw.githubusercontent.com/harold-farfan-reto/pagina_teatro/gh-pages/assets/img/un-enemigo-del-pueblo-2.jpg> "Fuente: GTN")
+![alt text](<https://raw.githubusercontent.com/harold-farfan-reto/pagina_teatro/gh-pages/assets/img/un-enemigo-del-pueblo-2.jpeg> "Fuente: GTN")
 
 El cambio más importante atañe a la personalidad misma del protagonista. En la historia original, el Dr. Stockman es un doctor amable, querido y admirado por sus vecinos, con el cual resulta muy fácil coincidir en su lucha por la verdad. A su vez, los personajes antagonistas también nos resultan claramente antipáticos y, aunque sus motivos son entendibles, no resultan justificables. 
 

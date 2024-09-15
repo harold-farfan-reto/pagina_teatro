@@ -3,7 +3,7 @@ layout: post
 title: "Henrik Ibsen: Teatro (1877-1890)"
 author: "Harold Farfán Reto"
 categories: journal
-tags: [documentation,sample]
+tags: [ibsen,teatro, libro]
 image: ibsen1.jpg
 ---
 

@@ -11,7 +11,7 @@ Hace un par de meses, investigando sobre Henrik Ibsen, me topé con [este artíc
 
 Ocho años puede parecer un plazo excesivo para este trabajo, especialmente si consideramos que se está publicando un avance, no el resultado final. Sin embargo, no lo es. Si bien Henrik Ibsen no ocupa el espacio que tiene Shakespeare en la cultura popular, eso no lo hace menos complejo o relevante. Esto se aprecia en [la presentación que hace Cristina Gómez-Baggethun][articulo-Ibsen1], la experta en Ibsen elegida para dirigir la traducción al español, sobre esta primera publicación.
 
-La autora, hablante nativa de español y noruego, señala que han sido ocho años de investigación y búsqueda de nuevas rutas en la traducción. Además, explica las decisiones que ha tenido que tomar en el camino. Entre ellas, ha optado por mantener una absoluta literalidad en la traducción, lo cual incluye el respeto a todas las maldiciones e insultos de los personajes. Aquí cabe mencionar que esta decisión es totalmente acertada para un autor que siempre se esforzó por hacer notar el carácter, origen soial y afinidad ideológica de sus personajes en cada palabra que estos emiten.
+La autora, hablante nativa de español y noruego, señala que han sido ocho años de investigación y búsqueda de nuevas rutas en la traducción. Además, explica las decisiones que ha tenido que tomar en el camino. Entre ellas, ha optado por mantener una absoluta literalidad en la traducción, lo cual incluye el respeto a todas las maldiciones e insultos de los personajes. Aquí cabe mencionar que esta decisión es totalmente acertada para un autor que siempre se esforzó por hacer notar el carácter, origen soial y afinidad ideológica de sus personajes en cada palabra que estos emiten (más aún en personajes que defienen una denuncia social, como el caso del Dr. Stockman).
 
 Además, menciona un rasgo adicional que, en mi opinión, es una de las mejores decisiones posibles cuando se trata de traducir teatro:
 
@@ -45,7 +45,7 @@ Las obras que contiene este primer volumen se listan abajo. Como se puede ver, c
 
 Asimsimo, al leer el libro, descubrí que el artículo que mencioné al inicio de este post no es más que la parte inicial de la introducción del libro. Parte de esta introducción y algunas páginas de *Los pilares de la sociedad* pueden ser leídos [aquí][introduccion-Ibsen].
 
-En resumen, la información previa que encontré sobre esta nueva traducción de Ibsen llamó bastante mi atención y, al comprar el libro, he quedado satisfecho y lo recomiendo si les gusta el teatro en general. Lo pueden encontrar en [la misma página de la editorial][compra-ibsen-nordica]. Personalmente, nunca he encontrado un solo libro de Ibsen en liberías limeñas, lo cual es una lástima. Ibsen es uno de esos autores cuyas obras resultan tan profundamente humanas que se pueden releer innumerables veces y en cada lectura se descubre algo nuevo.
+En resumen, la información previa que encontré sobre esta nueva traducción de Ibsen llamó bastante mi atención y, al comprar el libro, he quedado satisfecho y lo recomiendo si les gusta el teatro en general. Lo pueden encontrar en [la misma página de la editorial][compra-ibsen-nordica]. Personalmente, nunca he encontrado un solo libro de Ibsen en liberías limeñas, lo cual es una lástima. Ibsen es uno de esos autores cuyas obras denuncian con tanta fuerza las carencias humanas que se pueden releer innumerables veces y en cada lectura se descubre algo nuevo.
  
 Título: *Teatro (1877-1890)*. Traducción de Cristina Gómez-Baggethun
 
